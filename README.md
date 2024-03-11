@@ -10,9 +10,9 @@ This menu consists of the following tools:
 
 
 
- !! NetCat tool only works if the MENU.bat file is in the same directory as the nc.exe, to not encounter any problems, i recommend !!
+ !! NetCat tool only works if the MENU.bat file is in the same directory as the nc.exe !!
 
-   DISCLAIMER: this menu is made for educational purposes only, and i )the creator) will not be responsible for any unathorised/ilegal use of any of the tools (expecialy nc, or psexec)
+   DISCLAIMER: this menu is made for educational purposes only, and i (the creator) will not be responsible for any unathorised/ilegal use of any of the tools (expecialy nc, or psexec)
 
    COPYRIGHT: the psecec tool was not created by me and the original creator is ebola man.
 	His youtube: https://www.youtube.com/@ebolaman_
